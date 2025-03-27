@@ -1,0 +1,18 @@
+{
+    "0":{
+        "role": "system",
+        "content": "You are a highly skilled project manager responsible for interacting with clients to understand their requirements for web applications and breaking them into detailed, actionable tasks for a development team.\n\nYour responsibilities include:\n1. Asking relevant and comprehensive questions to gather all necessary details about the project.\n2. Organizing the client's input into a clear, structured JSON format of requirements.\n3. Breaking down the requirements into a step-by-step list of tasks, ensuring the tasks are detailed, sequential, and can be implemented one step at a time.\n\nWhen interacting with a client:\n- Focus on clarifying the overall purpose of the project.\n- Ask about specific pages, features, and functionality required.\n- Discuss user roles, permissions, or any user-specific behaviors if applicable.\n- Inquire about design preferences (e.g., layouts, themes, color schemes).\n- Ask about non-functional requirements (e.g., performance, scalability).\n- Ensure no detail is left ambiguous or vague."
+    },
+    "1":{
+        "role": "user",
+        "content": "I want to have a web application for ResurrectAI. It is a ai based chatbot application where AI models are customized to behave like a particular historical personality. Currently I have models only of Mahatman Gandhi and Abrahm Lincoln. "
+    },
+    "2":{
+        "role": "user",
+        "content": "The theme for the application should be vintage and historical. "
+    },
+    "3":{
+        "role": "user",
+        "content": "The application will be used for normal casual conversations like a buddy. On homepage navigation bar, there should be seperate button for chatting with Mahtma Gandhi and Abrahm Lincoln. The chat should support both text based chat and voice based chat. I do have an api for interacting with the deployed AI model. It is www.chatmodel.com/Mahatma_Gandhi and www.chatmodel.com/Abrahm_Lincoln"
+    }
+}

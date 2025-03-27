@@ -1,0 +1,179 @@
+{
+    "structure": {
+        "description": "Hierarchical structure of the project directory.",
+        "tree": {
+            "outputs/ResurrectAI": {
+                "type": "directory",
+                "children": {
+                    "public": {
+                        "type": "directory",
+                        "children": {
+                            "index.html": {
+                                "type": "file"
+                            },
+                            "favicon.ico": {
+                                "type": "file"
+                            },
+                            "manifest.json": {
+                                "type": "file"
+                            },
+                            "robots.txt": {
+                                "type": "file"
+                            }
+                        }
+                    },
+                    "src": {
+                        "type": "directory",
+                        "children": {
+                            "index.js": {
+                                "type": "file"
+                            },
+                            "index.css": {
+                                "type": "file"
+                            },
+                            "App.js": {
+                                "type": "file"
+                            },
+                            "App.css": {
+                                "type": "file"
+                            },
+                            "App.test.js": {
+                                "type": "file"
+                            },
+                            "logo.svg": {
+                                "type": "file"
+                            },
+                            "reportWebVitals.js": {
+                                "type": "file"
+                            },
+                            "setupTests.js": {
+                                "type": "file"
+                            }
+                        }
+                    },
+                    "package.json": {
+                        "type": "file"
+                    },
+                    "package-lock.json": {
+                        "type": "file"
+                    }
+                }
+            },
+            "outputs/backend.py": {
+                "type": "file"
+            }
+        }
+    },
+    "outputs/ResurrectAI": {
+        "name": "ResurrectAI",
+        "type": "directory",
+        "path": "outputs/ResurrectAI",
+        "description": "React frontend application generated using Create React App.",
+        "last_updated": "2024-12-24 13:26:25"
+    },
+    "outputs/ResurrectAI/public": {
+        "name": "public",
+        "type": "directory",
+        "path": "outputs/ResurrectAI/public",
+        "description": "Public assets for the React frontend application.",
+        "last_updated": "2024-12-24 13:26:25"
+    },
+    "outputs/ResurrectAI/public/index.html": {
+        "name": "index.html",
+        "type": "file",
+        "path": "outputs/ResurrectAI/public/index.html",
+        "description": "HTML template for the React application.",
+        "last_updated": "2024-12-24 13:26:25"
+    },
+    "outputs/ResurrectAI/public/favicon.ico": {
+        "name": "favicon.ico",
+        "type": "file",
+        "path": "outputs/ResurrectAI/public/favicon.ico",
+        "description": "Favicon for the React application.",
+        "last_updated": "2024-12-24 13:26:25"
+    },
+    "outputs/ResurrectAI/public/manifest.json": {
+        "name": "manifest.json",
+        "type": "file",
+        "path": "outputs/ResurrectAI/public/manifest.json",
+        "description": "Manifest file describing PWA metadata.",
+        "last_updated": "2024-12-24 13:26:25"
+    },
+    "outputs/ResurrectAI/public/robots.txt": {
+        "name": "robots.txt",
+        "type": "file",
+        "path": "outputs/ResurrectAI/public/robots.txt",
+        "description": "File specifying crawl instructions for web crawlers.",
+        "last_updated": "2024-12-24 13:26:25"
+    },
+    "outputs/ResurrectAI/src": {
+        "name": "src",
+        "type": "directory",
+        "path": "outputs/ResurrectAI/src",
+        "description": "Source code directory for the React frontend application.",
+        "last_updated": "2024-12-24 13:26:25"
+    },
+    "outputs/ResurrectAI/src/index.js": {
+        "name": "index.js",
+        "type": "file",
+        "path": "outputs/ResurrectAI/src/index.js",
+        "description": "Entry point for the React application.",
+        "last_updated": "2024-12-24 13:26:25"
+    },
+    "outputs/ResurrectAI/src/index.css": {
+        "name": "index.css",
+        "type": "file",
+        "path": "outputs/ResurrectAI/src/index.css",
+        "description": "Global CSS file for the React application.",
+        "last_updated": "2024-12-24 13:26:25"
+    },
+    "outputs/ResurrectAI/src/App.js": {
+        "name": "App.js",
+        "type": "file",
+        "path": "outputs/ResurrectAI/src/App.js",
+        "description": "Main React component for the application.",
+        "last_updated": "2024-12-24 13:26:25"
+    },
+    "outputs/backend.py": {
+        "name": "backend.py",
+        "type": "file",
+        "path": "outputs/backend.py",
+        "description": "FastAPI backend with a root endpoint and health check.",
+        "last_updated": "2024-12-24 13:26:25"
+    },
+    "outputs/ResurrectAI/src/reportWebVitals.js": {
+        "name": "reportWebVitals.js",
+        "type": "file",
+        "path": "outputs/ResurrectAI/src/reportWebVitals.js",
+        "description": "File for measuring and reporting web performance metrics.",
+        "last_updated": "2024-12-24 13:26:25"
+    },
+    "outputs/ResurrectAI/src/setupTests.js": {
+        "name": "setupTests.js",
+        "type": "file",
+        "path": "outputs/ResurrectAI/src/setupTests.js",
+        "description": "Configuration for React Testing Library.",
+        "last_updated": "2024-12-24 13:26:25"
+    },
+    "outputs/ResurrectAI/src/App.css": {
+        "name": "App.css",
+        "type": "file",
+        "path": "outputs/ResurrectAI/src/App.css",
+        "description": "CSS file for styling the App component.",
+        "last_updated": "2024-12-24 13:26:25"
+    },
+    "outputs/ResurrectAI/src/logo.svg": {
+        "name": "logo.svg",
+        "type": "file",
+        "path": "outputs/ResurrectAI/src/logo.svg",
+        "description": "Default logo provided by Create React App.",
+        "last_updated": "2024-12-24 13:26:25"
+    },
+    "outputs/ResurrectAI/src/App.test.js": {
+        "name": "App.test.js",
+        "type": "file",
+        "path": "outputs/ResurrectAI/src/App.test.js",
+        "description": "Sample test file for the App component.",
+        "last_updated": "2024-12-24 13:26:25"
+    }
+}

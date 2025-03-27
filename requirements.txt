@@ -1,0 +1,11 @@
+flask==2.3.3               # Web server
+openai==0.27.8            # LLM API interaction
+requests==2.31.0          # HTTP requests
+python-dotenv==1.0.0      # Environment variable management
+pytest==7.4.0             # Testing framework
+groq
+requests==2.31.0
+sqlalchemy
+fastapi
+uvicorn
+json5
